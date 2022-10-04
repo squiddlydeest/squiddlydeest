@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @squiddlydeest
-- 👀 I’m interested in ... hockey, football, tennis, RPGs and more! :)
 - 🌱 I’m currently learning ... full stack java
 - 💞️ I’m looking to collaborate on ... learning with my peers, and whatever future projects unfold
 - 📫 How to reach me ... sbialor@gmail.com
